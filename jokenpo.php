@@ -9,7 +9,7 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <h1 align="center">Pedra, Papel e Tesoura</h1>
+    <h1 align="center">Pedra/Papel/Tesoura</h1>
 
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
         <fieldset>
