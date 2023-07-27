@@ -12,6 +12,7 @@
     //Júlia Mogi
     //Kauã Silva
     //Laura Perez
+    //Pedro Santos
     //Samuel Américo
     //Thell Zardi -->
 <body>
