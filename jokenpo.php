@@ -8,12 +8,12 @@
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
 </head>
-    //Ana Zinato
+<!--     //Ana Zinato
     //Júlia Mogi
     //Kauã Silva
     //Laura Perez
     //Samuel Américo
-    //Thell Zardi
+    //Thell Zardi -->
 <body>
     <h1 align="center">Pedra/Papel/Tesoura</h1>
 
