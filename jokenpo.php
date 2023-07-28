@@ -10,7 +10,8 @@
 </head>
 <!--     //Ana Zinato
     //Júlia Mogi
-    //Kauã Silva
+    //Kauan Silva
+    //Kauã Lira
     //Laura Perez
     //Pedro Santos
     //Samuel Américo
